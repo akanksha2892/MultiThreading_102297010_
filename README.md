@@ -24,5 +24,11 @@ This contains a Python script to benchmark the performance of matrix multiplicat
 4. **Result Analysis**:
    - The average time taken for matrix multiplication with each thread configuration is calculated.
    - CPU usage during the multiplication operations is recorded.
+  
+**Result Table-**
+
+
+![image](https://github.com/akanksha2892/MultiThreading_102297010_/assets/122826707/d3681b5c-ebf2-421d-86c2-bc5730b9e3c2)
+
 
 
